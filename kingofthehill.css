@@ -1,0 +1,23 @@
+.heading {
+
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+
+}
+
+
+.back a {
+  background: lightgray;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  color: black;
+  display: inline-block;
+  margin: 5px;
+  padding: 10px; 
+  text-decoration: none;
+}
+
+.back a:hover {
+  background: white;
+  border: 1px solid lightgray;
+  color: black;
+}

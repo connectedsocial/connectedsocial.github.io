@@ -1,0 +1,27 @@
+.topbar {
+  color: white;
+  background: lightskyblue;
+  border: 2px solid CornflowerBlue;
+  border-radius: 3px;
+  padding-left: 10px;
+  overflow: auto;
+  font-family: "TimesNewRoman";
+}
+
+
+.buttonlinks a {
+  background: lightgray;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  color: black;
+  display: inline-block;
+  margin: 5px;
+  padding: 10px; 
+  text-decoration: none;
+}
+
+.buttonlinks a:hover {
+  background: white;
+  border: 1px solid lightgray;
+  color: black;
+}

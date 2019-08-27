@@ -1,0 +1,22 @@
+.heading {
+
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+
+}
+
+.videolinks a {
+  background: lightgray;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  color: black;
+  display: inline-block;
+  margin: 3px;
+  padding: 10px; 
+  text-decoration: none;
+}
+
+.videolinks a:hover {
+  background: white;
+  border: 1px solid lightgray;
+  color: black;
+}
